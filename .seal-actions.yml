@@ -1,0 +1,82 @@
+meta:
+  schema-version: 0.1.0
+  created-on: "2025-12-25T11:28:24Z"
+  cli-version: 0.2.0
+projects:
+  458CCDFACD2D35D69D88356D0781BB1D54617CC5:
+    targets:
+      - package.json
+    manager:
+      ecosystem: node
+      name: npm
+      version: "9"
+    overrides:
+      axios:
+        0.21.1:
+          use: 0.21.1-sp1
+      hoek:
+        2.16.3:
+          use: 2.16.3-sp1
+        6.1.3:
+          use: 6.1.3-sp1
+      minimatch:
+        3.0.4:
+          use: 3.0.4-sp1
+      ws:
+        8.6.0:
+          use: 8.6.0-sp1
+      path-to-regexp:
+        0.1.7:
+          use: 0.1.7-sp2
+      semver:
+        5.3.0:
+          use: 5.3.0-sp1
+      xml2js:
+        0.4.19:
+          use: 0.4.19-sp1
+      form-data:
+        2.3.3:
+          use: 2.3.3-sp1
+      minimist:
+        1.2.5:
+          use: 1.2.5-sp1
+      node-fetch:
+        2.6.0:
+          use: 2.6.0-sp1
+      glob-parent:
+        5.1.1:
+          use: 5.1.1-sp1
+      qs:
+        6.5.2:
+          use: 6.5.2-sp1
+        6.7.0:
+          use: 6.7.0-sp1
+      moment:
+        2.29.1:
+          use: 2.29.1-sp1
+      lodash.template:
+        4.5.0:
+          use: 4.5.0-sp1
+      tough-cookie:
+        2.4.3:
+          use: 2.4.3-sp1
+        3.0.1:
+          use: 3.0.1-sp1
+      dot-prop:
+        4.2.0:
+          use: 4.2.0-sp1
+      nth-check:
+        1.0.2:
+          use: 1.0.2-sp1
+      async:
+        2.6.3:
+          use: 2.6.3-sp1
+      merge:
+        1.2.1:
+          use: 1.2.1-sp1
+      ssri:
+        6.0.1:
+          use: 6.0.1-sp1
+      js-yaml:
+        3.13.0:
+          use: 3.13.0-sp1
