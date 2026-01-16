@@ -33,7 +33,7 @@
     "lodash": "^4.17.19",
     "lodash.merge": "^4.6.1",
     "lodash.template": "^4.5.0",
-    "marked": "^0.3.9",
+    "marked": "^0.8.2",
     "merge": "^1.2.1",
     "merge-deep": "^3.0.2",
     "merge-options": "^1.0.0",
