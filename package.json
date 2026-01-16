@@ -41,7 +41,7 @@
     "mime": "^1.4.1",
     "minimatch": "^3.0.4",
     "moment": "^2.29.1",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.6.0",
     "ngx-bootstrap": "^7.1.2",
     "node-fetch": "^2.6.0",
     "nth-check": "^1.0.2",
