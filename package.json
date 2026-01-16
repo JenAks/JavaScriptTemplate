@@ -56,7 +56,7 @@
     "sshpk": "^1.13.1",
     "static-eval": "^2.0.0",
     "strip-ansi": "^6.0.1",
-    "systeminformation": "^5.9.4",
+    "systeminformation": "^5.28.1",
     "tar": "^4.4.17",
     "uglify-js": "^2.4.24",
     "underscore": "^1.12.1",
