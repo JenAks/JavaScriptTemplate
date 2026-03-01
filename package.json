@@ -51,7 +51,7 @@
     "qs": "^6.5.2",
     "redis": "^2.8.0",
     "request": "^2.88.0",
-    "serialize-javascript": "^4.0.0",
+    "serialize-javascript": "^7.0.3",
     "shelljs": "^0.8.3",
     "sshpk": "^1.13.1",
     "static-eval": "^2.0.0",
