@@ -48,7 +48,3 @@ tough-cookie            2.4.3        1 vuln     Seal
 xmldom                  0.5.0        2 vulns    Generate Fix
 form-data               2.3.3        1 vuln     Seal
 crypto-js               4.1.1        1 vuln     Fix not available
-
-
-
-
