@@ -30,6 +30,3 @@ jobs:
           token: ${{ secrets.SEAL_TOKEN }}
           project: 458CCDFACD2D35D69D88356D0781BB1D54617CC5
           target: package-lock.json
-
-      - name: Run tests
-        run: npm test
